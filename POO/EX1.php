@@ -1,4 +1,9 @@
 <?php
+
+//Crie uma classe chamada "Pessoa" com as propriedades "nome", "idade" e "sexo".
+//Em seguida, instancie dois objetos dessa classe e atribua valores apropriados às propriedades.
+//
+//Adicione mais métodos e propriedades que você acha necessário.
 class pessoa{
     private $nome;
     private $idade;

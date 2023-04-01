@@ -1,4 +1,11 @@
 <?php
+
+//Classe ContaBancaria
+//
+//    Crie uma classe chamada "ContaBancaria" com propriedades "saldo" e métodos "depositar" e "sacar".  Verifique se o valor a
+// ser sacado é menor ou igual ao saldo antes de realizar o saque.
+//
+//Adicione mais métodos e propriedades que você acha necessário.
 class ContaBancaria{
     private $saldo;
 
