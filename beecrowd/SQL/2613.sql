@@ -1,0 +1,1 @@
+select id, name from movies where id_prices=(select id from prices where value < 2.00);
